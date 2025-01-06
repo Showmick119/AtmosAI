@@ -2,7 +2,11 @@
 
 ## 📖 Overview  
 
-**AtmosAI** is an AI-driven weather application designed to provide real-time weather analysis and insights. It integrates the OpenWeather API for weather data and Google’s Gemini AI model to power an interactive chatbot, offering tailored weather reports and discussions on environmental impacts, health, and climate. Developed as part of Georgia Tech's CS1301 course, this project introduced key concepts in exploratory data analysis (EDA) using Python libraries like Pandas and Matplotlib, alongside practical experience with API integration.
+**AtmosAI** is an AI-driven weather application designed to provide real-time weather analysis and insights. It integrates the OpenWeather API for weather data and Google’s Gemini AI model to power an interactive chatbot, offering tailored weather reports and discussions on environmental impacts, health, and climate. 
+
+Developed as part of Georgia Tech's CS1301 course, this project introduced key concepts in exploratory data analysis (EDA) using Python libraries like Pandas and Matplotlib, alongside practical experience with API integration.
+
+You can test it out by clicking the following link: https://atmos-ai.streamlit.app/
 
 ---  
 
