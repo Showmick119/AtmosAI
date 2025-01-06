@@ -137,7 +137,7 @@ def plot_forecast(df, metric, forecast_type, units_code):
     return fig
 
 def main():
-    st.set_page_config(page_title="Advanced Weather Dashboard", page_icon="🌦️", layout="wide")
+    st.set_page_config(page_title="Weather Dashboard", page_icon="🌦️", layout="wide")
     
     st.markdown("""
         <style>
@@ -150,7 +150,7 @@ def main():
         </style>
         """, unsafe_allow_html=True)
     
-    st.title("🌦️ Advanced Weather Dashboard")
+    st.title("🌦️ Weather Dashboard")
     st.write("Get detailed weather insights and forecasts for any city utilizing our real time data from OpenWeather API.")
 
     col1, col2, col3, col4 = st.columns([2, 1, 1, 1])
