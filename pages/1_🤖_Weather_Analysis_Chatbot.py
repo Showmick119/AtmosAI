@@ -7,7 +7,7 @@ import pandas as pd
 import json
 
 st.set_page_config(
-    page_title="Weather Analysis with AI",
+    page_title="Weather Analysis Chatbot",
     page_icon="🤖",
     layout="wide"
 )
