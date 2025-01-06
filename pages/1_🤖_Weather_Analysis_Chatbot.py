@@ -22,7 +22,7 @@ WEATHER_API_KEY = "5c0812134a59c831e3002d7730393cb0"
 WEATHER_BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_BASE_URL = "https://api.openweathermap.org/data/2.5/forecast"
 
-GOOGLE_API_KEY = "AIzaSyBvyH3Ao1EY_9TIujbWW2bbEJgQHezUiyE"
+GOOGLE_API_KEY = "AIzaSyD45DAm3TRq3QytKjCJqnL0DYRDF-2W_HA" 
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 
