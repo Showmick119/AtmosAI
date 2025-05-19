@@ -1,6 +1,6 @@
-# 🤖 AtmosAI - AI-Powered Weather Chatbot and Dashboard  
+# AtmosAI - AI-Powered Weather Chatbot and Dashboard  
 
-## 📖 Overview  
+## Overview  
 
 **AtmosAI** is an AI-driven weather application designed to provide real-time weather analysis and insights. It integrates the OpenWeather API for weather data and Google’s Gemini AI model to power an interactive chatbot, offering tailored weather reports and discussions on environmental impacts, health, and climate. 
 
@@ -10,7 +10,7 @@ You can test it out by clicking the following link: https://atmos-ai.streamlit.a
 
 ---  
 
-## 🚀 Features  
+## Features  
 
 1. **AI-Driven Weather Chatbot**:  
    - Provides personalized weather insights and tailored reports (News Style, Travel Advisory, and Technical Analysis).  
@@ -27,14 +27,14 @@ You can test it out by clicking the following link: https://atmos-ai.streamlit.a
 
 ---  
 
-## 📊 Data Sources  
+## Data Sources  
 
 - **OpenWeather API**: Provides real-time weather and forecast data.  
 - **Google Generative AI (Gemini)**: Powers the chatbot and weather report generation.  
 
 ---  
 
-## 🖼️ Key Components  
+## Key Components  
 
 ### **1. Weather Dashboard (🌦️_Weather_Dashboard.py)**  
    - Visualizes real-time and forecasted weather data.  
@@ -50,7 +50,7 @@ You can test it out by clicking the following link: https://atmos-ai.streamlit.a
 
 ---  
 
-## 📦 Installation  
+## Installation  
 
 1. Clone the repository:  
    ```bash  
@@ -70,7 +70,7 @@ You can test it out by clicking the following link: https://atmos-ai.streamlit.a
 
 ---  
 
-## 💡 How It Works  
+## How It Works  
 
 1. **Data Processing**:  
    - Fetches real-time weather data using the OpenWeather API.  
@@ -86,7 +86,7 @@ You can test it out by clicking the following link: https://atmos-ai.streamlit.a
 
 ---  
 
-## 📦 Dependencies  
+## Dependencies  
 
 This project requires:  
 - **Python 3.7+**  
